@@ -755,3 +755,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 97.106.10.142 at 2020-10-13 00:09:48 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
